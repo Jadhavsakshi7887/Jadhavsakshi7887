@@ -4,6 +4,7 @@
    This repository showcases my learning journey and the projects I've worked on in these fields.
 
  Projects
+ 
 1. Emotion Detection using CNN
 Description: This project focuses on detecting emotions from facial expressions using Convolutional Neural Networks (CNNs).
 It involves preprocessing images, building and training a CNN model, and evaluating its accuracy.
@@ -18,6 +19,7 @@ Description: This project includes data analysis and visualization of the Titani
 Technologies Used: Python, Pandas, Matplotlib, Seaborn
 
 Skills
+
 Programming Languages: Java, Python
 Machine Learning: Supervised and Unsupervised Learning, CNNs, Data Preprocessing
 Data Analysis: Exploratory Data Analysis, Data Visualization, Statistics
