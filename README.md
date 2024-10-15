@@ -21,15 +21,21 @@ Technologies Used: Python, Pandas, Matplotlib, Seaborn
 Skills
 
 Programming Languages: Java, Python
+
 Machine Learning: Supervised and Unsupervised Learning, CNNs, Data Preprocessing
+
 Data Analysis: Exploratory Data Analysis, Data Visualization, Statistics
+
 Libraries & Tools: TensorFlow, Keras, Scikit-Learn, Pandas, Matplotlib, Seaborn
 
 I’m interested in ...
 
   Volleyball
+  
   Badminton
+  
   Data Science & Machine Learning
+  
   AI Research
 
 I’m looking to collaborate on ...
