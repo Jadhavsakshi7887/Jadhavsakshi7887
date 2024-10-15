@@ -3,7 +3,7 @@
     Welcome to my GitHub repository! I'm Sakshi Jadhav, a second-year Computer Engineering student passionate about Data Science, Machine Learning, and Artificial Intelligence.
    This repository showcases my learning journey and the projects I've worked on in these fields.
 
-Projects
+ Projects
 1. Emotion Detection using CNN
 Description: This project focuses on detecting emotions from facial expressions using Convolutional Neural Networks (CNNs).
 It involves preprocessing images, building and training a CNN model, and evaluating its accuracy.
@@ -38,7 +38,9 @@ Java software development and open-source contributions
 If you're interested in collaborating or have an interesting project idea, feel free to reach out!
 - 📫 How to reach me ...
 -   Email: sakshijadhav788757@gmail.com
+-   
     LinkedIn: https://www.linkedin.com/in/sakshi-jadhav-7446a62b9/
+    
     Twitter: https://x.com/sakshijadh69013?t=TvbRlQLHfUFRymVpEv7hZg&s=08
   
 
