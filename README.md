@@ -24,25 +24,28 @@ Data Analysis: Exploratory Data Analysis, Data Visualization, Statistics
 Libraries & Tools: TensorFlow, Keras, Scikit-Learn, Pandas, Matplotlib, Seaborn
 
 I’m interested in ...
+
   Volleyball
   Badminton
   Data Science & Machine Learning
   AI Research
 
 I’m looking to collaborate on ...
+
 I am currently looking to collaborate with like-minded individuals on exciting projects related to:
 
 Machine Learning and AI Research
 Data Science and Data Analytics
 Java software development and open-source contributions
 If you're interested in collaborating or have an interesting project idea, feel free to reach out!
+
 How to reach me ...
 
-    Email: sakshijadhav788757@gmail.com
+  Email: sakshijadhav788757@gmail.com
  
-    LinkedIn: https://www.linkedin.com/in/sakshi-jadhav-7446a62b9/
+  LinkedIn: https://www.linkedin.com/in/sakshi-jadhav-7446a62b9/
     
-    Twitter: https://x.com/sakshijadh69013?t=TvbRlQLHfUFRymVpEv7hZg&s=08
+  Twitter: https://x.com/sakshijadh69013?t=TvbRlQLHfUFRymVpEv7hZg&s=08
   
 
 <!---
