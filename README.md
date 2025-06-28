@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jadhavsakshi7887
 
-    Welcome to my GitHub repository! I'm Sakshi Jadhav, a second-year Computer Engineering student passionate about Data Science, Machine Learning, and Artificial Intelligence.
+    Welcome to my GitHub repository! I'm Sakshi Jadhav, a Third-year Computer Engineering student passionate about Data Science, Machine Learning, and Artificial Intelligence.
    This repository showcases my learning journey and the projects I've worked on in these fields.
 
  Projects
